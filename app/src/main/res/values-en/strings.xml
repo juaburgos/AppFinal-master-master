@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMapp</string>
+    <string name="departamento">state</string>
+    <string name="direccion">location</string>
+    <string name="mapa">view on map</string>
+    <string name="municipio">municipality</string>
+    <string name="nombre">name</string>
+    <string name="telefono">number</string>
+    <string name="textView">present by</string>
+    <string name="tipo">type</string>
+    <string name="uno">" About"</string>
+    <string name="dos">" to return"</string>
+    <string name="echo">made by</string>
+</resources>
